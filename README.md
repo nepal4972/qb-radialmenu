@@ -1,3 +1,5 @@
+Discord: https://discord.gg/PaDuyF9w76
+
 FiveM Radial Menu:
 
       FiveM resource for a simnple radial menu to execute commands.
